@@ -1,0 +1,78 @@
+leftnav:
+- identifier: 805bd73c-770f-4f26-6768-a8c9ff914b0b
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: b2cab3cd-beaa-21b2-adbf-2db1c244141b
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 4b41ee35-3642-bf02-01cc-25d7531538a4
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: dbdff3d7-eca1-f698-febf-6e8114f8bc5d
+  name: Balancing Intensive Writing and Reading
+  pageRef: /pages/instructor-insights/balancing-intensive-writing-and-reading
+  parent: 4b41ee35-3642-bf02-01cc-25d7531538a4
+  weight: 40
+- identifier: dc4448e7-8a4f-afe0-e966-497693391926
+  name: Providing Students with Feedback
+  pageRef: /pages/instructor-insights/providing-students-with-feedback
+  parent: 4b41ee35-3642-bf02-01cc-25d7531538a4
+  weight: 50
+- identifier: 632ac3e3-3413-398a-9eb3-a058ae728a3b
+  name: Readings
+  pageRef: /pages/readings/
+  weight: 60
+- identifier: 3906362f-b4cb-03c7-7c7f-1ceb9d5e7d6c
+  name: Supplementary Readings
+  pageRef: /pages/readings/supplementary-readings
+  parent: 632ac3e3-3413-398a-9eb3-a058ae728a3b
+  weight: 70
+- identifier: a7f1ba37-a3f4-4b76-d84a-5e2886b1071f
+  name: Short Assignments
+  pageRef: /pages/short-assignments
+  weight: 80
+- identifier: 68285fcc-c3c2-a253-6e6a-14231e426fe2
+  name: Essay 1
+  pageRef: /pages/essay-1/
+  weight: 90
+- identifier: c9f66ccd-180b-d7de-b59b-ecc8a95df3fd
+  name: Draft
+  pageRef: /pages/essay-1/draft
+  parent: 68285fcc-c3c2-a253-6e6a-14231e426fe2
+  weight: 100
+- identifier: be4fd861-a9e3-69c3-da87-2e3345fc08bf
+  name: Workshop
+  pageRef: /pages/essay-1/workshop
+  parent: 68285fcc-c3c2-a253-6e6a-14231e426fe2
+  weight: 110
+- identifier: 2934922d-0028-909c-6457-fb5770df3ec4
+  name: Essay 2
+  pageRef: /pages/essay-2/
+  weight: 120
+- identifier: 2ad9dc43-780d-6e5f-fe6e-74b096ab16c6
+  name: Draft
+  pageRef: /pages/essay-2/draft
+  parent: 2934922d-0028-909c-6457-fb5770df3ec4
+  weight: 130
+- identifier: 621dbc38-404f-016c-ccde-fab6ac08db45
+  name: Workshop
+  pageRef: /pages/essay-2/workshop
+  parent: 2934922d-0028-909c-6457-fb5770df3ec4
+  weight: 140
+- identifier: 9305c794-9837-e7fa-1ebe-540f1e607425
+  name: Essay 3
+  pageRef: /pages/essay-3/
+  weight: 150
+- identifier: f4eccb25-8cc2-faa8-8a53-f4a7712fd0b2
+  name: Draft
+  pageRef: /pages/essay-3/draft
+  parent: 9305c794-9837-e7fa-1ebe-540f1e607425
+  weight: 160
+- identifier: a99fa1ef-3d43-c4cb-98be-1661676c4358
+  name: Workshop
+  pageRef: /pages/essay-3/workshop
+  parent: 9305c794-9837-e7fa-1ebe-540f1e607425
+  weight: 170

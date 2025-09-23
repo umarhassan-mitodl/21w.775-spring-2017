@@ -1,0 +1,62 @@
+{
+  "term": "Spring",
+  "year": "2017",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History"
+    ],
+    [
+      "Humanities",
+      "Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "American Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Creative Writing"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Nonfiction Prose"
+    ]
+  ],
+  "legacy_uid": "29988c7a-0cf4-4078-b68c-636379f38fbb",
+  "instructors": {
+    "content": [
+      "b21290e6-2d0d-7812-3529-891e9a0c93e1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9c9e2caf-9ee3-17d4-1234-7b3227be5066",
+    "website": "21w-775-writing-about-nature-and-environmental-issues-spring-2017"
+  },
+  "course_title": "Writing about Nature and Environmental Issues",
+  "course_description": "In this course we will read and write about works that explore symbolic encounters in the American landscape. Some of the assigned works look at uneasy encounters between ordinary individuals and animals\u2014wolves, eagles, sandhill cranes\u2014that Americans have invested with symbolic significance; others explore conflicts between the pragmatic American impulse to impose order on unruly nature and the equally American inclination to enshrine the unaltered landscape.\n",
+  "department_numbers": [
+    "CMS-W"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21W.775",
+  "course_image_thumbnail": {
+    "content": "331ff60c-715e-5b42-5933-097a2880d115",
+    "website": "21w-775-writing-about-nature-and-environmental-issues-spring-2017"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples",
+    "Instructor Insights"
+  ],
+  "site_uid": "23c53ee5-263f-4528-a5b7-33b84091e96a",
+  "site_short_id": "21w.775-spring-2017",
+  "site_url_path": "courses/21w-775-writing-about-nature-and-environmental-issues-spring-2017",
+  "title": "Course Metadata"
+}
