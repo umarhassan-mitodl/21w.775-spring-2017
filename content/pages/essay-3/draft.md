@@ -29,40 +29,40 @@ Your third essay will require that you explore the relationship between one of t
 
 Quammen, David. Chapters 71–77. In *The Song of the Dodo: Island Biogeography in an Age of Extinction*. Reprint edition. Scribner, 1997. ISBN: 9780684827124.
 
-Alagona, Peter S. {{% resource_link "a1bac1dc-f4b6-463e-a617-6900bf701321" "\"Biography of a 'Feathered Pig': The California Condor Conservation Controversy.\" (PDF)" %}} *Journal of the History of Biology* 37, no. 3 (2004): 557–583.
+Alagona, Peter S. ["Biography of a 'Feathered Pig': The California Condor Conservation Controversy." (PDF)](http://www.history.ucsb.edu/projects/histpublications/files/08238-alagona_2004_jhb.pdf) *Journal of the History of Biology* 37, no. 3 (2004): 557–583.
 
 **Cultivating Nature:**
 
-Pollan, Michael. "{{% resource_link "6eca1341-98b3-457b-99da-16f66dcda8ff" "Playing God in the Garden" %}}." *The New York Times Magazine*. October 25, 1998.
+Pollan, Michael. "[Playing God in the Garden](http://michaelpollan.com/articles-archive/playing-god-in-the-garden/)." *The New York Times Magazine*. October 25, 1998.
 
-———. "{{% resource_link "c0a02b9e-28f4-4f61-b26f-9efa1ae57148" "Weeds Are Us" %}}." *The New York Times Magazine*. November 5, 1989.
+———. "[Weeds Are Us](http://michaelpollan.com/articles-archive/weeds-are-us/)." *The New York Times Magazine*. November 5, 1989.
 
-———. "The Idea of a Garden." In *Second Nature: A Gardener's Education*. Reprint edition. Grove Press, 2003. ISBN: 9780802140111. \[Preview with {{% resource_link "12cad1bf-835b-4818-a0f2-18f578059159" "Google Books" %}}\]
+———. "The Idea of a Garden." In *Second Nature: A Gardener's Education*. Reprint edition. Grove Press, 2003. ISBN: 9780802140111. \[Preview with [Google Books](https://books.google.com/books?id=3zUqfDxvl48C&lpg=PP1&dq=Second%20Nature%3A%20A%20Gardener's%20Education&pg=PA176#v=onepage&q&f=false)\]
 
-Burdick, Alan. "{{% resource_link "122c2691-19c8-46f9-a47c-225c4bca4c31" "Coming of Age in the Anthropocene" %}}." *OnEarth*. September 27, 2010.
+Burdick, Alan. "[Coming of Age in the Anthropocene](http://archive.onearth.org/article/coming-of-age-in-anthropocene)." *OnEarth*. September 27, 2010.
 
-Kingsolver, Barbara, Camille Kingsolver, and Steven L. Hopp. *Animal, Vegetable, Miracle: A Year of Food Life*. Reprint edition. Harper Perennial, 2008. ISNB: 9780060852566. \[Preview with {{% resource_link "8af5b2b9-efa8-4498-b2d9-6d8b47ee958d" "Google Books" %}}\]
+Kingsolver, Barbara, Camille Kingsolver, and Steven L. Hopp. *Animal, Vegetable, Miracle: A Year of Food Life*. Reprint edition. Harper Perennial, 2008. ISNB: 9780060852566. \[Preview with [Google Books](https://books.google.com/books?id=YUzwlDHiHPQC&lpg=PP1&pg=PP1#v=onepage&q&f=false)\]
 
 Carpenter, Novella. *Farm City: The Education of an Urban Farmer*. Penguin Books, 2010. ISBN: 9780143117285.   
 (On the creation of an urban farm in central Oakland. Short book—you may draw on several chapters rather than the entire book.)
 
-Mitchell, John Hanson. *Ceremonial Time: Fifteen Thousand Years on One Square Mile*. Counterpoint, 1997. ISBN: 9780201149371. \[Preview with {{% resource_link "42d57610-e5d8-4d6e-b30e-f0c80ff1a682" "Google Books" %}}\]   
+Mitchell, John Hanson. *Ceremonial Time: Fifteen Thousand Years on One Square Mile*. Counterpoint, 1997. ISBN: 9780201149371. \[Preview with [Google Books](https://books.google.com/books?id=VcaUAAAAQBAJ&lpg=PP1&dq=John%20Hanson%20Mitchell%2C%20Ceremonial%20Time&pg=PP1#v=onepage&q&f=false)\]   
 (On the history of the land around Mitchell’s Massachusetts farm and about Mitchell’s own farming enterprise.)
 
-Spirn, Anne Whiston. "Constructing Nature: The Legacy of Frederick Law Olmsted." In *Uncommon Ground: Rethinking the Human Place in Nature*. Edited by William Cronon. W. W. Norton & Company, 1996. ISNB: 9780393315110. \[Preview with {{% resource_link "e6ffa509-9ae2-4d85-ad4f-cf34b7675d04" "Google Books" %}}\]   
+Spirn, Anne Whiston. "Constructing Nature: The Legacy of Frederick Law Olmsted." In *Uncommon Ground: Rethinking the Human Place in Nature*. Edited by William Cronon. W. W. Norton & Company, 1996. ISNB: 9780393315110. \[Preview with [Google Books](http://books.google.com/books?id=ydRJAAAAQBAJ&pg=PA69=onepage)\]   
 (On recognizing the constructed nature of Olmsted’s parks.)
 
 **Reconstructing Nature:**
 
-McPhee, John. "{{% resource_link "b531a716-e5d4-454c-9647-26ee14ba168c" "Atchafalaya" %}}." *The New Yorker*. February 23, 1987.   
+McPhee, John. "[Atchafalaya](https://www.newyorker.com/magazine/1987/02/23/atchafalaya)." *The New Yorker*. February 23, 1987.   
 (On the Army Corps of Engineers’ struggle to control the Mississippi.)
 
-Reisner, Marc. "A Semidesert with a Desert Heart." In *Cadillac Desert: The American West and Its Disappearing Water*. 2nd edition. Penguin Books, 1993. ISBN: 9780140178241. \[Preview with {{% resource_link "90d9ccb6-a452-4869-8d38-28ecb39e0538" "Google Books" %}}\]   
+Reisner, Marc. "A Semidesert with a Desert Heart." In *Cadillac Desert: The American West and Its Disappearing Water*. 2nd edition. Penguin Books, 1993. ISBN: 9780140178241. \[Preview with [Google Books](https://books.google.com/books?id=frvKDY0rpToC&lpg=PP1&dq=cadillac%20desert&pg=PA1#v=onepage&q&f=false)\]   
 (On the attempt to re-engineer the desert Southwest of the USA.)
 
 Williams, Terry Tempest. "Refuge: An Unnatural History of Family and Place." In *American Earth: Environmental Writing Since Thoreau*. Edited by Bill McKibben. Library of America, 2008. ISBN: 9781598530209.
 
 **Wolves:**
 
-Lopez, Barry Holstun. “An American Pogrom” and/or “Epilogue: On the Raising of Wolves and a New Ethology.” In *Of Wolves and Men*. Photographed by John Baugess. Revised edition. Scribner, 1979. ISBN: 9780684163222. \[Preview with {{% resource_link "a4b109b8-bec9-4de0-8c92-0072966b9186" "Google Books" %}}\]   
+Lopez, Barry Holstun. “An American Pogrom” and/or “Epilogue: On the Raising of Wolves and a New Ethology.” In *Of Wolves and Men*. Photographed by John Baugess. Revised edition. Scribner, 1979. ISBN: 9780684163222. \[Preview with [Google Books](https://books.google.com/books?id=YeiU2OnJKaUC&lpg=PP1&dq=of%20wolves%20and%20men&pg=PA167#v=onepage&q&f=false)\]   
 (About the history of the US effort to eradicate wolves & Lopez’s own doomed effort to raise two orphaned wolves.)

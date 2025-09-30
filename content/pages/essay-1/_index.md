@@ -1,5 +1,7 @@
 ---
 content_type: page
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: ''
 title: Essay 1
@@ -34,9 +36,9 @@ Readings to consider:
 
 \[AE\] = McKibben, Bill, ed. _American Earth: Environmental Writing Since Thoreau_. Library of America, 2008. ISBN: 9781598530209.
 
-Beston, Henry. _The Outermost House: A Year of Life on the Great Beach of Cape Code_. Reprint edition. Holt Paperbacks, 2003, pp. 19–25. ISBN: 9780805073683. \[Preview with {{% resource_link "38997467-e531-49c8-b2c1-44848263be01" "Google Books" %}}\]
+Beston, Henry. _The Outermost House: A Year of Life on the Great Beach of Cape Code_. Reprint edition. Holt Paperbacks, 2003, pp. 19–25. ISBN: 9780805073683. \[Preview with [Google Books](https://books.google.com/books?id=AUA9DFpWy14C&lpg=PP1&dq=the%20outermost%20house&pg=PA19#v=onepage&q&f=false)\]
 
-Eiseley, Loren. "The Judgment of the Birds." In _The Immense Journey: An Imaginative Naturalist Explores the Mysteries of Man and Nature_. Vintage, 1959. ISBN: 9780394701578. \[Preview with {{% resource_link "843a6633-f159-4769-8ee6-9cec0e172c71" "Google Books" %}}\]
+Eiseley, Loren. "The Judgment of the Birds." In _The Immense Journey: An Imaginative Naturalist Explores the Mysteries of Man and Nature_. Vintage, 1959. ISBN: 9780394701578. \[Preview with [Google Books](https://books.google.com/books?id=XUcdLS_j0UsC&lpg=PP1&dq=the%20immense%20journey&pg=PA163#v=onepage&q&f=false)\]
 
 \[AE\] Leopold, Aldo. "Marshland Elegy."
 
