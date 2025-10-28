@@ -1,7 +1,5 @@
 ---
 content_type: page
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: ''
 title: Syllabus
@@ -37,16 +35,16 @@ The tensions evident in this and other symbolic encounters should provide though
 **Recommended resources for all students:**
 
 *   If you like having a hard copy of a writer’s manual, look for one that covers the most recent version of the MLA citation guidelines (8th edition).
-*   If you are happy working with an online manual, try Purdue University’s [Online Writing Lab (OWL)](https://owl.english.purdue.edu/owl/).
+*   If you are happy working with an online manual, try Purdue University’s {{% resource_link "e920fc89-72eb-452f-9754-95be5a71f53a" "Online Writing Lab (OWL)" %}}.
 
-**Additional resources on reserve at [Hayden Library](https://libraries.mit.edu/hayden/)** (Note: Hayden Library resources are available to MIT students only):
+**Additional resources on reserve at {{% resource_link "f78ebf14-a9a6-4921-8033-35719482dce6" "Hayden Library" %}}** (Note: Hayden Library resources are available to MIT students only):
 
-*   Cronon, William, ed. _Uncommon Ground: Rethinking the Human Place in Nature_. W. W. Norton & Company, 1996. ISBN: 9780393315110. \[Preview with [Google Books](https://books.google.com/books?id=DU9KAAAAQBAJ&lpg=PP1&dq=uncommon%20ground%3A%20rethinking%20the%20human%20%20place&pg=PP1#v=onepage&q=uncommon%20ground:%20rethinking%20the%20human%20%20place&f=false)\]
-*   Nash, Roderick Frazier. _Wilderness and the American Mind_. 5th edition. Yale University Press, 2014. ISBN: 9780300190380. \[Preview with [Google Books](https://books.google.com/books?id=eQupAgAAQBAJ&lpg=PP1&dq=wilderness%20and%20the%20american%20mind&pg=PP1#v=onepage&q&f=false)\]
-*   Pollan, Micahel. _Second Nature: A Gardener's Education_. Reprint edition. Grove Press, 2003. ISBN: 9780802140111. \[Preview with [Google Books](https://books.google.com/books?id=3zUqfDxvl48C&lpg=PP1&dq=second%20nature&pg=PP1#v=onepage&q&f=false)\]
-*   Worster, Donald. _Nature's Economy: A History of Ecological Ideas_. 2nd edition. Cambridge University Press, 1994. ISBN: 9780521468343. \[Preview with [Google Books](https://books.google.com/books?id=2Ng-5B5H2wcC&lpg=PP1&dq=nature's%20economy&pg=PP1#v=onepage&q&f=false)\]
-*   Schullery, Paul. _Searching for Yellowstone: Ecology and Wonder in the Last Wilderness_. Montana Historical Society Press, 2004. ISBN: 9780972152211. \[Preview with [Google Books](https://books.google.com/books?id=BucbobJGExMC&lpg=PP1&dq=searching%20for%20yellowstone&pg=PP1#v=onepage&q&f=false)\]
-*   Quammen, David. _The Song of the Dodo: Island Biogeography in an Age of Extinction_. Reprint edition. Scribner, 1997. ISBN: 9780684827124. \[Preview with [Google Books](https://books.google.com/books?id=53kuEeItYtIC&lpg=PP1&dq=song%20of%20the%20dodo&pg=PP1#v=onepage&q&f=false)\]
+*   Cronon, William, ed. _Uncommon Ground: Rethinking the Human Place in Nature_. W. W. Norton & Company, 1996. ISBN: 9780393315110. \[Preview with {{% resource_link "c95cf168-ed64-46b2-ad6d-f6cb2c9f776e" "Google Books" %}}\]
+*   Nash, Roderick Frazier. _Wilderness and the American Mind_. 5th edition. Yale University Press, 2014. ISBN: 9780300190380. \[Preview with {{% resource_link "2f99cbb7-d2d3-4231-a6ec-abaa6d24a782" "Google Books" %}}\]
+*   Pollan, Micahel. _Second Nature: A Gardener's Education_. Reprint edition. Grove Press, 2003. ISBN: 9780802140111. \[Preview with {{% resource_link "48b7c1fd-caec-42a4-876e-bfa3479f7682" "Google Books" %}}\]
+*   Worster, Donald. _Nature's Economy: A History of Ecological Ideas_. 2nd edition. Cambridge University Press, 1994. ISBN: 9780521468343. \[Preview with {{% resource_link "5753a2aa-75cd-42b9-b74f-af91033dfabe" "Google Books" %}}\]
+*   Schullery, Paul. _Searching for Yellowstone: Ecology and Wonder in the Last Wilderness_. Montana Historical Society Press, 2004. ISBN: 9780972152211. \[Preview with {{% resource_link "e9629c79-f812-4d9e-a92c-ea09bbe1ae0f" "Google Books" %}}\]
+*   Quammen, David. _The Song of the Dodo: Island Biogeography in an Age of Extinction_. Reprint edition. Scribner, 1997. ISBN: 9780684827124. \[Preview with {{% resource_link "0e488833-5224-4230-a25e-83f6aaf972da" "Google Books" %}}\]
 
 **Class Participation**
 
